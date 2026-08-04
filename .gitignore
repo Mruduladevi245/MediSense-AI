@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Environment Variables
+.env
+backend/.env
+
+# Streamlit
+.streamlit/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Python Cache
+.pytest_cache/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Exported Files
+exports/pdf/*
+exports/qr/*
+
+# Temporary Files
+temp/
+tmp/
+
+# Images generated during runtime
+uploads/
+
+# Database
+*.db
+*.sqlite3
